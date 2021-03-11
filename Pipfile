@@ -8,6 +8,7 @@ name = "pypi"
 sqlalchemy = "==1.3.*"
 tabulate = "*"
 python-dotenv = "*"
+dnspython = "==1.16.0"
 
 [dev-packages]
 pylint = "*"
